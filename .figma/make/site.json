@@ -1,0 +1,10 @@
+{
+  "description": "An initial-import setup tool that bootstraps projects and verifies deployment and preview readiness, helping developers prepare reliable releases.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
